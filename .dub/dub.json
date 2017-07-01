@@ -1,0 +1,9 @@
+{
+	"dub": {
+		"lastUpgrade": "2017-06-30T15:42:15.2232211",
+		"cachedUpgrades": {
+			"pegged": "0.4.2",
+			"llvm-d": "2.2.0"
+		}
+	}
+}

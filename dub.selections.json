@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"llvm-d": "2.2.0",
+		"pegged": "0.4.2"
+	}
+}
